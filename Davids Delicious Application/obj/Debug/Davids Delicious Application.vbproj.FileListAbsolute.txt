@@ -1,0 +1,48 @@
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\Davids Delicious Application.exe
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\Davids Delicious Application.pdb
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\Davids Delicious Application.xml
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.vbproj.AssemblyReference.cache
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Resources.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.vbproj.GenerateResource.cache
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.vbproj.CoreCompileInputs.cache
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.exe
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.xml
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.pdb
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Loginfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Mainfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\Davids Delicious Application.exe.config
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.manageuserfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.inventorymngfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.dashboardfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.frmproductlist.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.trnasactionfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.CircleButton.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Form1.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.mainfront.resources
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\MySql.Data.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\Google.Protobuf.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\ZstdNet.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\BouncyCastle.Crypto.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\System.Memory.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\System.Buffers.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\K4os.Compression.LZ4.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\K4os.Hash.xxHash.dll
+D:\Davids Delicious Application\Davids Delicious Application\bin\Debug\System.Numerics.Vectors.dll
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.exe.config
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids Delicious Application.vbproj.CopyComplete
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Inventory_history.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Products_Inventory.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Form2.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.ReportsAndAnalysis.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.BarcodeScannerForm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.unitsfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.suppliersfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.supplierstracker.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.UserControl1.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.cashierfrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.cashierprofile.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Stafffrm.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Settings.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Brand.resources
+D:\Davids Delicious Application\Davids Delicious Application\obj\Debug\Davids_Delicious_Application.Category.resources
